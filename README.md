@@ -30,3 +30,4 @@ This project simplifies urban parking by integrating smart sensors, microcontrol
 - **Predictive Analytics:** Leveraging AI to forecast parking availability patterns based on historical data.
 - **Space Optimization:** Real-time dynamic routing to guide drivers to the nearest available spot.
 ---
+![Smart Parking Model](Smart Parking.jpg)
